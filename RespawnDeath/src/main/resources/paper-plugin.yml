@@ -1,0 +1,6 @@
+name: RespawnDeath
+version: '${project.version}'
+main: org.example.respawndeath.respawndeath.RespawnDeath
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: instant respawn + innovation
